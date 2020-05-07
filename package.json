@@ -1,0 +1,24 @@
+{
+  "name": "speed_typer",
+  "version": "1.0.0",
+  "description": "A mini JS app allows you to challenge yourself as a speed typer",
+  "main": "script.js",
+  "homepage": "https://novailoveyou.github.io/speed_typer",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d SpeedTyper"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Novailoveyou/SpeedTyper.git"
+  },
+  "author": "Nover",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Novailoveyou/SpeedTyper/issues"
+  },
+  "homepage": "https://github.com/Novailoveyou/SpeedTyper#readme"
+}
